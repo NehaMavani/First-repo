@@ -1,2 +1,1 @@
-I created this file to akash staged from unstaged.
-Neha_branch
+I created this file to akash staged from unstaged
